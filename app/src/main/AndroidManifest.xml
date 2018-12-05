@@ -20,7 +20,27 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Main2Activity"></activity>
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".Brand" />
+        <activity android:name=".Purpose" />
+        <activity android:name=".Availability" />
+        <activity android:name=".Main3Activity" />
+        <activity android:name=".Stat2" />
+        <activity android:name=".Main4Activity" />
+        <activity android:name=".Main5Activity" />
+        <activity android:name=".Main6Activity" />
+        <activity android:name=".Main7Activity" />
+        <activity android:name=".Main8Activity" />
+        <activity android:name=".Main9Activity" />
+        <activity android:name=".Main10Activity" />
+        <activity android:name=".Stat3" />
+        <activity android:name=".Stat4" />
+        <activity android:name=".Stat5" />
+        <activity android:name=".Stat6" />
+        <activity android:name=".Stat7" />
+        <activity android:name=".Stat8" />
+        <activity android:name=".Stat9" />
+        <activity android:name=".Stat10"></activity>
     </application>
 
 </manifest>
