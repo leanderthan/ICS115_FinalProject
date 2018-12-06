@@ -59,6 +59,9 @@ public class Purpose extends AppCompatActivity {
         } else if (v.getId() == R.id.btn_purpose){
             i = new Intent(this, Purpose.class);
             startActivity(i);
+        } else if (v.getId() == R.id.btn_exit){
+            i = new Intent(this, START.class);
+            startActivity(i);
         }
     }
 }
