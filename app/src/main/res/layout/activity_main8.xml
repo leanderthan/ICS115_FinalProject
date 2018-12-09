@@ -9,7 +9,7 @@
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="223dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="8dp"
@@ -18,10 +18,11 @@
         android:layout_marginBottom="8dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.168"
-        tools:srcCompat="@tools:sample/avatars[6]" />
+        app:layout_constraintVertical_bias="0.033"
+        tools:srcCompat="@drawable/pine1" />
 
     <TextView
         android:id="@+id/textView2"
@@ -33,7 +34,7 @@
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginBottom="8dp"
-        android:text="Name"
+        android:text="Pinesol Cleaner Lemon 2/1000oz"
         android:textColor="#000000"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -44,21 +45,21 @@
     <TextView
         android:id="@+id/textView3"
         android:layout_width="314dp"
-        android:layout_height="128dp"
+        android:layout_height="149dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginBottom="8dp"
-        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet lacus a tortor efficitur tincidunt. Mauris non dictum erat, convallis luctus diam. Etiam id dapibus velit. Integer consequat, nisi vel convallis finibus, tortor felis lacinia eros, a efficitur arcu tellus vel urna. Sed euismod rhoncus luctus. Suspendisse lectus ante, scelerisque et sapien ac, facilisis blandit leo."
+        android:text="Php 2229.00
+A registered trade name of Clorox for a line of household cleaning products, used to clean grease and heavy soil stains. Pine-Sol was based on pine oil when it was created in 1929 and during its rise to national popularity in the 1950s. However, as of 2016, Pine-Sol products sold in stores no longer contain pine oil as a result of profit maximization."
         android:textColor="#000000"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.49"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.752" />
+        app:layout_constraintVertical_bias="0.763" />
 
     <Button
         android:id="@+id/btn_back"

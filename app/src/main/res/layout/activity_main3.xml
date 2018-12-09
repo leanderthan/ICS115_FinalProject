@@ -18,47 +18,50 @@
         android:layout_marginBottom="8dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.505"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.168"
-        tools:srcCompat="@tools:sample/avatars[1]" />
+        app:layout_constraintVertical_bias="0.0"
+        tools:srcCompat="@drawable/baygon2" />
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="273dp"
+        android:layout_height="64dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginBottom="8dp"
-        android:text="Name"
+        android:text="Baygon Protector Multi Insect Killer 500mL"
         android:textColor="#000000"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.526"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.6" />
 
     <TextView
         android:id="@+id/textView3"
         android:layout_width="314dp"
-        android:layout_height="128dp"
+        android:layout_height="104dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginBottom="8dp"
-        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet lacus a tortor efficitur tincidunt. Mauris non dictum erat, convallis luctus diam. Etiam id dapibus velit. Integer consequat, nisi vel convallis finibus, tortor felis lacinia eros, a efficitur arcu tellus vel urna. Sed euismod rhoncus luctus. Suspendisse lectus ante, scelerisque et sapien ac, facilisis blandit leo."
+        android:text="Php 789.00
+It is an insecticide used for extermination and control of household pests such as crickets, roaches, ants, carpenter ants, spiders, silverfish and mosquitoes. In 1975, Baygon introduced Australia’s first surface spray for killing cockroaches and other crawling insects."
         android:textColor="#000000"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.49"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.752" />
+        app:layout_constraintVertical_bias="0.826" />
 
     <Button
         android:id="@+id/btn_back"

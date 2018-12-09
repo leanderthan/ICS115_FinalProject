@@ -8,8 +8,8 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="240dp"
+        android:layout_height="226dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="8dp"
@@ -20,45 +20,47 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.168"
-        tools:srcCompat="@tools:sample/avatars[4]" />
+        app:layout_constraintVertical_bias="0.052"
+        tools:srcCompat="@drawable/lysol2" />
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="312dp"
+        android:layout_height="66dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginBottom="8dp"
-        android:text="Name"
+        android:text="LYSOL Disinfectant Spray Fresh Blossoms Scent 340G"
         android:textColor="#000000"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.517"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.559" />
 
     <TextView
         android:id="@+id/textView3"
         android:layout_width="314dp"
-        android:layout_height="128dp"
+        android:layout_height="121dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginBottom="8dp"
-        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet lacus a tortor efficitur tincidunt. Mauris non dictum erat, convallis luctus diam. Etiam id dapibus velit. Integer consequat, nisi vel convallis finibus, tortor felis lacinia eros, a efficitur arcu tellus vel urna. Sed euismod rhoncus luctus. Suspendisse lectus ante, scelerisque et sapien ac, facilisis blandit leo."
+        android:text="Php 385.00
+The line includes liquid solutions for hard and soft surfaces, air treatment, and hand washing. The active ingredient in many Lysol products is benzalkonium chloride, but the active ingredient in the Lysol Power and Free line is hydrogen peroxide."
         android:textColor="#000000"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.49"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.752" />
+        app:layout_constraintVertical_bias="0.799" />
 
     <Button
         android:id="@+id/btn_back"

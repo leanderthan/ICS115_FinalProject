@@ -12,6 +12,7 @@ public class Availability extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_availability);
     }
+    //
 
     public void image(View v){
         Intent i;

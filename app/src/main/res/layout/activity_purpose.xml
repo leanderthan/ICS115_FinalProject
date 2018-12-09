@@ -109,7 +109,7 @@
         app:layout_constraintVertical_bias="0.193" />
 
     <ImageButton
-        android:id="@+id/imageMain2"
+        android:id="@+id/imageMain8"
         android:layout_width="77dp"
         android:layout_height="73dp"
         android:layout_marginStart="8dp"
@@ -125,7 +125,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.324"
-        tools:srcCompat="@mipmap/ic_launcher" />
+        tools:srcCompat="@drawable/pine1" />
 
     <ImageButton
         android:id="@+id/imageMain6"
@@ -144,10 +144,10 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.554"
-        tools:srcCompat="@mipmap/ic_launcher" />
+        tools:srcCompat="@drawable/lysol12" />
 
     <ImageButton
-        android:id="@+id/imageMain9"
+        android:id="@+id/imageMain3"
         android:layout_width="77dp"
         android:layout_height="73dp"
         android:layout_marginStart="8dp"
@@ -163,7 +163,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.786"
-        tools:srcCompat="@mipmap/ic_launcher" />
+        tools:srcCompat="@drawable/baygon2" />
 
     <ImageButton
         android:id="@+id/imageMain5"
@@ -182,10 +182,10 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.554"
-        tools:srcCompat="@mipmap/ic_launcher" />
+        tools:srcCompat="@drawable/lysol11" />
 
     <ImageButton
-        android:id="@+id/imageMain8"
+        android:id="@+id/imageMain2"
         android:layout_width="77dp"
         android:layout_height="73dp"
         android:layout_marginStart="8dp"
@@ -201,10 +201,10 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.786"
-        tools:srcCompat="@mipmap/ic_launcher" />
+        tools:srcCompat="@drawable/baygon1" />
 
     <ImageButton
-        android:id="@+id/imageMain3"
+        android:id="@+id/imageMain9"
         android:layout_width="77dp"
         android:layout_height="73dp"
         android:layout_marginStart="8dp"
@@ -220,10 +220,10 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.324"
-        tools:srcCompat="@mipmap/ic_launcher" />
+        tools:srcCompat="@drawable/pine2" />
 
     <ImageButton
-        android:id="@+id/imageMain4"
+        android:id="@+id/imageMain10"
         android:layout_width="77dp"
         android:layout_height="73dp"
         android:layout_marginStart="8dp"
@@ -239,7 +239,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.324"
-        tools:srcCompat="@mipmap/ic_launcher" />
+        tools:srcCompat="@drawable/pine3" />
 
     <ImageButton
         android:id="@+id/imageMain7"
@@ -258,10 +258,10 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.554"
-        tools:srcCompat="@mipmap/ic_launcher" />
+        tools:srcCompat="@drawable/lysol13" />
 
     <ImageButton
-        android:id="@+id/imageMain10"
+        android:id="@+id/imageMain4"
         android:layout_width="77dp"
         android:layout_height="73dp"
         android:layout_marginStart="8dp"
@@ -277,7 +277,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.786"
-        tools:srcCompat="@mipmap/ic_launcher" />
+        tools:srcCompat="@drawable/baygon3" />
 
     <SearchView
         android:id="@+id/searchView"
@@ -307,7 +307,7 @@
         android:layout_marginBottom="8dp"
         android:background="#000000"
         android:onClick="sort"
-        android:text="<<"
+        android:text="Exit"
         android:textColor="#ffffff"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
